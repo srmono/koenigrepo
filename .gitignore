@@ -1,0 +1,5 @@
+.env
+config/*
+config/*.js
+config/startwith_*.js
+sys_logs/*.log
